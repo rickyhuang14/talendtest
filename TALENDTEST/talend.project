@@ -4,4 +4,7 @@
     <migrationTask xmi:id="_0zWtMJDtEem_166HCGM9GA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_zycp0pDtEem_166HCGM9GA" login="ricky.huang@lightstream.asia" firstName="Ricky" lastName="Huang" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_4ecCYJDuEemO8JeTvbND0Q" login="sintyadi.thong@lightstream.asia" firstName="Sintyadi" lastName="Thong" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_4ecCYZDuEemO8JeTvbND0Q" login="wingky@lightstream.asia" firstName="Wingky" lastName="Wingky" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_4ecCYpDuEemO8JeTvbND0Q" login="erico@lightstream.asia" firstName="Erico" lastName="Erico" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
